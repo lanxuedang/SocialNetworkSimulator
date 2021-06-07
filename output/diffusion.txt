@@ -1,0 +1,11 @@
+#Seed Node,Algorithm, #Opinion Leaders, Scope, Model, Parameters, Influence size
+5,Degree Centrality,10,Whole,LT,0.3,95
+
+5,Degree Centrality,10,Whole,IC,0.3_0.2,23
+5,Degree Centrality,5,Whole,LT,0.5,17
+10,Degree Centrality,60,Whole,IC,0.3_0.2,66
+10,Degree Centrality,60,Whole,IC,0.3_0.2,172
+10,Degree Centrality,90,Whole,IC,0.3_0.2,191
+10,Degree Centrality,41,Community,IC,0.3_0.2,135
+10,Betweenness Centrality,45,Whole,IC,0.3_0.2,297
+10,Betweenness Centrality,300,Whole,IC,0.3_0.2,1976
