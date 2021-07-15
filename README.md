@@ -9,7 +9,9 @@ Environment Requirements
 Installation
 Before the code is being used some installation is required so errors can be avoided. All the packages locate in the folder named softwares_and_packages.
 1) Python 2.7 64 version is required.
+
   a. Double click python-2.7.13.amd64.msi to install python 2.7 64 version.
+  
   b. Follow steps below to set the path variables in the environment variables.
      (1) Right-click This PC, and then click Properties.
      (2) Click Advance system setting.
@@ -20,13 +22,16 @@ Before the code is being used some installation is required so errors can be avo
       ii. C:\Python27\Lib\
       iii. C:\Python27\Scripts\
     This gives the user the access to use all the scripts available in python from command prompt. It will let the user fire the pip command from the command prompt.
+    
 2) Double click PyQt4-4.11.4-gpl-Py2.7-Qt4.8.7-x64.exe to install PyQt package.
+
 3) Double click vcredist_x64.exe to install it.
+
 4) Install module numpy, matplotlib, Snap, and xlrd.
 
       a. Open command prompt and change path to the location where packages are. Here you are supposed to extract the tool file to C:\SocialNetworkSimulator. Use the command: 
       cd C:\SocialNetworkSimulator\softwares_and_packages to change the path.
- 
+      
       b. Execute the following commands using command prompt.
          Pip install numpy-1.13.1-cp27-none-win_amd64.whl
          Pip install matplotlib-2.0.2-cp27-cp27m-win_amd64.whl
