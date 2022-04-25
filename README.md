@@ -40,3 +40,7 @@ Before the code is being used some installation is required so errors can be avo
 Start
 
 To start this software, please use the command for command prompt, for example, Python C:\SocialNetworkSimulator\ SocialNetworkSimulator.py
+
+Paper:
+Dang L ,  Chen Z ,  Lee J , et al. Simulating the spatial diffusion of memes on social media networks[J]. International Journal of Geographical Information ence, 2019, 33(7-8):1-24.
+
